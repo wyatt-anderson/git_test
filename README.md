@@ -1,0 +1,1 @@
+This is whiskey_zero's first git project!
